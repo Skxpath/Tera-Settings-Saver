@@ -15,9 +15,9 @@ For example, if you want to save the keybinds and settings for a character (name
 
 **Set lock**
 
-This will save a file in *proxy/bin/node_modules/Tera-Settings-Saver/data* as "Kev-4107.json" for example.
+This will save a file in *proxy/bin/node_modules/Tera-Settings-Saver/data* as "Kev-4107.json".
 
-Log onto the character you want to transfer settings to (named Vic) for example, and then use the following commands:
+Log onto the character you want to transfer settings to (named Vic), and then use the following commands:
 
 **Key Kev-4107**
 
