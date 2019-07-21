@@ -9,23 +9,21 @@ Command | Usage | Arguments
 key | Transfer settings from another character / lock your keybinds | File name / lock
 set | Transfer settings from another character / lock your keybinds | File name / lock
 
-For example, if you want to save the keybinds and settings for a character (named Kev):
+For example, if you want to save the keybinds and settings for a character (named Kev). Log into Kev then use the following commands:
 
 **Key lock**
 
 **Set lock**
 
-This will save a file in proxy/bin/node_modules/Tera-Settings-Saver/data as "Kev-4107.json" for example.
+This will save a file in *proxy/bin/node_modules/Tera-Settings-Saver/data* as "Kev-4107.json" for example.
 
-Log onto character you want to transfer settings to (named Vic):
+Log onto the character you want to transfer settings to (named Vic) for example, and then use the following commands:
 
 **Key Kev-4107**
 
 **Set Kev-4107**
 
-Relog into Vic and Kev's settings will be there now.
-
-#### File name(s) can be found by going to proxy/bin/node_modules/Tera-Settings-Saver/data
+Finally, Relog into Vic once more and Kev's settings will be there now.
 
 ### Bugs:
 Can potentially reset a glyph & item set page if the settings has been reset(it will print in the chat)
