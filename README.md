@@ -10,14 +10,18 @@ key | Transfer settings from another character / lock your keybinds | File name 
 set | Transfer settings from another character / lock your keybinds | File name / lock
 
 For example, if you want to save the keybinds and settings for a character (named Kev):
-Key lock
-Set lock
+
+**Key lock**
+
+**Set lock**
 
 This will save a file in proxy/bin/node_modules/Tera-Settings-Saver/data as "Kev-4107.json" for example.
 
 Log onto character you want to transfer settings to (named Vic):
-Key Kev-4107
-Set Kev-4107
+
+**Key Kev-4107**
+
+**Set Kev-4107**
 
 Relog into Vic and Kev's settings will be there now.
 
